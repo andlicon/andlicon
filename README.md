@@ -2,7 +2,7 @@
 
 Soy desarrollador Full Stack.
 
-<ol>
+<ul>
   <li>
     Actualmente estoy tratando de masterizar JavaScript y Python
   </li>
