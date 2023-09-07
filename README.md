@@ -10,7 +10,7 @@ Soy desarrollador Full Stack.
     Actualmente estoy tratando de masterizar React y Flask.
   </li>
    <li>
-    Pregúntame acerca de JavaScript, Python, Flask y React
+    💬 Pregúntame acerca de JavaScript, Python, Flask y React
   </li>
     <li>
     📬 Para contactarme andresjzabalac@hotmail.com
