@@ -3,9 +3,11 @@
 <h3>¿Deseas contactar conmigo?</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/andres-zabalac/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-moret" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-zabala-linkedin" height="30" width="40" />
   </a>
-  <a href = "mailto: andresjzabalac@hotmail.com">Send Email</a>
+  <a href = "mailto: andresjzabalac@hotmail.com">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="andres zabala email" height="30" width="40" />
+  </a>
 </p>
 <h3 align="left">Lenguajes y tecnologías que manejo.</h3>
 <p align="left"> 
