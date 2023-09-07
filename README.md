@@ -4,9 +4,18 @@ Soy desarrollador Full Stack.
 
 <ol>
   <li>
-    A
+    Actualmente estoy tratando de masterizar JavaScript y Python
   </li>
-</ol>
+  <li>
+    Actualmente estoy tratando de masterizar React y Flask.
+  </li>
+   <li>
+    Pregúntame acerca de JavaScript, Python, Flask y React
+  </li>
+    <li>
+    Para contactarme andresjzabalac@hotmail.com
+  </li>
+</ul>
 
 <h3>¿Deseas contactar conmigo?</h3>
 <p align="left">
