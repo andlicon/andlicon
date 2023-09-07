@@ -7,7 +7,7 @@ Soy desarrollador Full Stack.
     💡 Actualmente estoy tratando de masterizar JavaScript y Python
   </li>
   <li>
-    Actualmente estoy tratando de masterizar React y Flask.
+    📖 Actualmente estoy tratando de masterizar React y Flask.
   </li>
    <li>
     💬 Pregúntame acerca de JavaScript, Python, Flask y React
