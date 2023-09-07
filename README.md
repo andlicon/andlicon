@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlicon)](https://github.com/andlicon/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlicon&show_icons=true)](https://github.com/andlicon/github-readme-stats)
 
 <!--
 **andlicon/andlicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
