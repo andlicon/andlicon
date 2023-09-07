@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andlicon&theme=merko&bg_color=00000000)](https://github.com/andlicon/github-readme-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=andlicon&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **andlicon/andlicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
