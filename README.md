@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlicon&show_icons=true&theme=merko&bg_color=00000000)](https://github.com/andlicon/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andlicon)](https://github.com/andlicon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andlicon&theme=merko&bg_color=00000000)](https://github.com/andlicon/github-readme-stats)
 
 
 
