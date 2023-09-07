@@ -1,12 +1,12 @@
 ### Hi there 👋
 <p align="left">
-  Te invito a conectar conmigo: 
+  ¿Deseas contactar conmigo?
   <a href="https://www.linkedin.com/in/andres-zabalac/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-moret" height="30" width="40" />
   </a>
 </p>
 <p>
-  O a través de mi email: andresjzabalac@hotmail.com
+  andresjzabalac@hotmail.com
 </p>
 <h3 align="left">Lenguajes y tecnologías que manejo.</h3>
 <p align="left"> 
