@@ -1,16 +1,13 @@
 ### Hola, soy Andrés Zabala.
 
-Soy desarrollador Full Stack.
+Soy ingeniero de sistemas y Full Stack Developer. Me apasiona el desarrollo de software en todos sus aspectos, pero si tuviera que elegir un area por el cual sienta mas afinidad, seria sin duda el Frotend.
 
 <ul>
   <li>
-    💡 Actualmente estoy tratando de masterizar JavaScript y Python
+    💡 Si tuviera que elegir un lenguaje de programacion, seria TypeScript.
   </li>
   <li>
-    📖 Actualmente estoy tratando de masterizar React y Flask.
-  </li>
-   <li>
-    💬 Pregúntame acerca de JavaScript, Python, Flask y React
+    📖 Tengo experiencia con React, MongoDB, Mongoose, Python y Flask 
   </li>
     <li>
     📬 Para contactarme andresjzabalac@hotmail.com
@@ -57,10 +54,6 @@ Soy desarrollador Full Stack.
 <h3>Mis estadísticas en GitHub</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andlicon&show_icons=true&theme=merko&bg_color=00000000)](https://github.com/andlicon/github-readme-stats)
-
-<h3>Mi top lenguajes</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andlicon&theme=merko&bg_color=00000000)](https://github.com/andlicon/github-readme-stats)
 
 Mis contribuciones
 
