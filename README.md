@@ -1,6 +1,4 @@
 ### Hola, soy Andrés Zabala.
-
-[![committers.top badge](https://org-badge.committers.top/venezuela_private/Avila-Tek.svg)](https://org-badge.committers.top/venezuela_private/Avila-Tek)
 [![committers.top badge](https://user-badge.committers.top/venezuela_private/andlicon.svg)](https://user-badge.committers.top/venezuela_private/andlicon)
 
 Soy ingeniero de sistemas y Full Stack Developer. Me apasiona el desarrollo de software en todos sus aspectos, pero si tuviera que elegir un area por el cual sienta mas afinidad, seria sin duda el Frotend.
